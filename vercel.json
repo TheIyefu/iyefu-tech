@@ -1,0 +1,32 @@
+{
+  "rewrites": [
+    {
+      "source": "/about",
+      "destination": "/about.html"
+    },
+    {
+      "source": "/cases",
+      "destination": "/cases.html"
+    },
+    {
+      "source": "/playground",
+      "destination": "/playground.html"
+    },
+    {
+      "source": "/armaih",
+      "destination": "/armaih.html"
+    },
+    {
+      "source": "/llime",
+      "destination": "/llime.html"
+    },
+    {
+      "source": "/qith-studio",
+      "destination": "/qith-studio.html"
+    },
+    {
+      "source": "/bluenotnice",
+      "destination": "/bluenotnice.html"
+    },
+  ]
+}
