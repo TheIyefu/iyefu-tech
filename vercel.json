@@ -27,6 +27,10 @@
     {
       "source": "/bluenotnice",
       "destination": "/bluenotnice.html"
+    },
+    {
+      "source": "/school-of-psychedelics",
+      "destination": "/school-of-psychedelics.html"
     }
   ]
 }
